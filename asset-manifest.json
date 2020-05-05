@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/covidinfo/static/css/main.66785bd6.chunk.css",
-    "main.js": "/covidinfo/static/js/main.61a7b345.chunk.js",
-    "main.js.map": "/covidinfo/static/js/main.61a7b345.chunk.js.map",
+    "main.css": "/covidinfo/static/css/main.1b211fe9.chunk.css",
+    "main.js": "/covidinfo/static/js/main.96a2f228.chunk.js",
+    "main.js.map": "/covidinfo/static/js/main.96a2f228.chunk.js.map",
     "runtime-main.js": "/covidinfo/static/js/runtime-main.bcc93339.js",
     "runtime-main.js.map": "/covidinfo/static/js/runtime-main.bcc93339.js.map",
     "static/js/2.168f011f.chunk.js": "/covidinfo/static/js/2.168f011f.chunk.js",
     "static/js/2.168f011f.chunk.js.map": "/covidinfo/static/js/2.168f011f.chunk.js.map",
     "index.html": "/covidinfo/index.html",
-    "precache-manifest.3e638acd72ea97d6b018befc8ab4533f.js": "/covidinfo/precache-manifest.3e638acd72ea97d6b018befc8ab4533f.js",
+    "precache-manifest.1ecdbd66478a0f96cd8a1c28081dd7c2.js": "/covidinfo/precache-manifest.1ecdbd66478a0f96cd8a1c28081dd7c2.js",
     "service-worker.js": "/covidinfo/service-worker.js",
-    "static/css/main.66785bd6.chunk.css.map": "/covidinfo/static/css/main.66785bd6.chunk.css.map",
+    "static/css/main.1b211fe9.chunk.css.map": "/covidinfo/static/css/main.1b211fe9.chunk.css.map",
     "static/js/2.168f011f.chunk.js.LICENSE.txt": "/covidinfo/static/js/2.168f011f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/covidinfo/static/media/icon-corona.d9a103ac.svg",
+    "static/media/style.scss": "/covidinfo/static/media/icon-corona.88058460.woff",
     "static/media/virus.png": "/covidinfo/static/media/virus.59db49e3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bcc93339.js",
     "static/js/2.168f011f.chunk.js",
-    "static/css/main.66785bd6.chunk.css",
-    "static/js/main.61a7b345.chunk.js"
+    "static/css/main.1b211fe9.chunk.css",
+    "static/js/main.96a2f228.chunk.js"
   ]
 }
